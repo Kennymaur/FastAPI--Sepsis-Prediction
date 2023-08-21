@@ -5,8 +5,7 @@
 
 |  | Project's Name | Article Link    | Deployment Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -Embedding a Machine Learning Model into a Web Application             |  |  |
-
+| 1 |  -Embedding a Machine Learning Model into a Web Application             | https://www.linkedin.com/posts/kehinde-afolabi-9b0632271_sepsis-prediction-app-using-fastapi-activity-7099526392429645824-KaEk?utm_source=share&utm_medium=member_android  | https://huggingface.co/spaces/Kennymaur/FastAPI-Sepsis-Prediction-App |
 
 # Sepsis Prediction APP using FASTAPI ✨
 
